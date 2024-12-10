@@ -14,10 +14,12 @@ An interactive shopping list web application built with HTML, CSS, and JavaScrip
 ## Screenshots
 
 ### Light Mode
-![Light Mode Screenshot](path/to/light-mode-screenshot.png)
+![image](https://github.com/user-attachments/assets/67d79e46-bdf9-4645-9a8d-d77ede7ab739)
+
 
 ### Dark Mode
-![Dark Mode Screenshot](path/to/dark-mode-screenshot.png)
+![image](https://github.com/user-attachments/assets/a646aee9-876e-4ba3-b89e-8038b89ea2b9)
+
 
 ## Getting Started
 
@@ -27,4 +29,7 @@ To run this project, you only need a modern web browser.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/interactive-shopping-list.git
+   git clone https://github.com/Guilty03/interactive-shopping-list.git
+
+### Authors
+Innocent Mwenda
